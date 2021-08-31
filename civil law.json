@@ -18,7 +18,32 @@
             "correlation" : "",
             "details": "",
             "children": [
-                
+                {
+                    "name": "Effects and Application",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "Human Relations",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [
+                        
+                    ]
+                }                           
             ]
         },
         {
@@ -31,7 +56,95 @@
             "correlation" : "",
             "details": "",
             "children": [
-                
+                {
+                    "name": "Civil Code",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [
+                        {
+                            "name": "Civil Personality",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [
+                                {
+                                    "name": "General Provisions",
+                                    "url" : "",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "ruling" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "",
+                                    "children": [
+                                        
+                                    ]
+                                },
+                                {
+                                    "name": "Natural Persons",
+                                    "url" : "",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "ruling" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "",
+                                    "children": [
+                                        
+                                    ]
+                                },
+                                {
+                                    "name": "Juridical Persons",
+                                    "url" : "",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "ruling" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "",
+                                    "children": [
+                                        
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Citizenship and Domicile",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [
+                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Family Code",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [
+                        
+                    ]
+                }                                
             ]
         },        
         {
