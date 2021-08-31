@@ -157,7 +157,391 @@
             "correlation" : "",
             "details": "",
             "children": [
+                {
+    "name": "Civil Laws",
+    "url" : "",
+    "facts" : "",
+    "issue" : "",
+    "ruling" : "",
+    "significance" : "",
+    "correlation" : "",
+    "details": "",
+    "children": [
+        {
+            "name": "Preliminary Title",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [
+                {
+                    "name": "Effects and Application",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "Human Relations",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [
+                        
+                    ]
+                }                           
+            ]
+        },
+        {
+            "name": "Persons",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [
+                {
+                    "name": "Civil Code",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [
+                        {
+                            "name": "Civil Personality",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [
+                                {
+                                    "name": "General Provisions",
+                                    "url" : "",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "ruling" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "",
+                                    "children": [
+                                        
+                                    ]
+                                },
+                                {
+                                    "name": "Natural Persons",
+                                    "url" : "",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "ruling" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "",
+                                    "children": [
+                                        
+                                    ]
+                                },
+                                {
+                                    "name": "Juridical Persons",
+                                    "url" : "",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "ruling" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "",
+                                    "children": [
+                                        
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Citizenship and Domicile",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [
+                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Family Code",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [
+                        
+                    ]
+                }                                
+            ]
+        },        
+        {
+            "name": "Property",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [
+                {
+                    "name": "Classification of Property",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "Ownership",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "Co-Ownership",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "Special Properties",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "Possession",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "Usufruct",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "Easement or Servitudes",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "Nuisance",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "Registry of Property",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [
+                        
+                    ]
+                }
+            ]
+        },  
+        {
+            "name": "Modes of Acquiring Ownership",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [
+                {
+                    "name": "Occupation",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "Intellectual Creation",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "Donation",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "Succession",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [
+                        
+                    ]
+                },
+                {
+                    "name": "Prescription",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [
+                        
+                    ]
+                }
                 
+            ]
+        },
+,   
+        {
+            "name": "Obligations and Contracts",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [
+                
+            ]
+        },      
+        {
+            "name": "Sales and Lease",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [
+                
+            ]
+        }                          
+             ]
+} 
             ]
         },  
         {
