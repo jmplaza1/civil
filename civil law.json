@@ -436,7 +436,7 @@
                     "ruling" : "",
                     "significance" : "",
                     "correlation" : "",
-                    "details": "",
+                    "details": "Definition: A contract is a meeting of the minds between two persons whereby one binds himself, with respect to the other, to give something or to render some service.",
                     "children": [
                         {
                             "name": "General Provisions",
@@ -459,7 +459,7 @@
                             "ruling" : "",
                             "significance" : "",
                             "correlation" : "",
-                            "details": "",
+                            "details": "consent of the contracting parties; object certain which is the subject matter of the contract; cause of the obligation which is established.",
                             "children": [
                                 {
                                     "name": "General Provisions",
@@ -471,7 +471,70 @@
                                     "correlation" : "",
                                     "details": "",
                                     "children": [
-                                        
+                                        {
+                                            "name": "Consent",
+                                            "url" : "",
+                                            "facts" : "",
+                                            "issue" : "",
+                                            "ruling" : "",
+                                            "significance" : "",
+                                            "correlation" : "",
+                                            "details": "",
+                                            "children": [
+                                                {
+                                                    "name": "Who Cannot Give Consent",
+                                                    "url" : "",
+                                                    "facts" : "",
+                                                    "issue" : "",
+                                                    "ruling" : "",
+                                                    "significance" : "",
+                                                    "correlation" : "",
+                                                    "details": "Unemancipated minors; Insane or demented persons, and deafmutes who do not know how to write",
+                                                    "children": [
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "1330 - Vitiation of Consent",
+                                                    "url" : "",
+                                                    "facts" : "",
+                                                    "issue" : "",
+                                                    "ruling" : "",
+                                                    "significance" : "",
+                                                    "correlation" : "",
+                                                    "details": "A contract where consent is given through mistake, violence, intimidation, undue influence, or fraud is voidable.",
+                                                    "children": [
+                                                        
+                                                    ]
+                                                }
+                                                
+                                            ]
+                                        },
+                                        {
+                                            "name": "Object",
+                                            "url" : "",
+                                            "facts" : "",
+                                            "issue" : "",
+                                            "ruling" : "",
+                                            "significance" : "",
+                                            "correlation" : "",
+                                            "details": "",
+                                            "children": [
+                                                
+                                            ]
+                                        },
+                                        {
+                                            "name": "Cause",
+                                            "url" : "",
+                                            "facts" : "",
+                                            "issue" : "",
+                                            "ruling" : "",
+                                            "significance" : "",
+                                            "correlation" : "",
+                                            "details": "",
+                                            "children": [
+                                                
+                                            ]
+                                        }
                                     ]
                                 }
                             ]
