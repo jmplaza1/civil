@@ -461,20 +461,19 @@
                             "correlation" : "",
                             "details": "",
                             "children": [
-                                
-                            ]
-                        },
-                        {
-                            "name": "General Provisions",
-                            "url" : "",
-                            "facts" : "",
-                            "issue" : "",
-                            "ruling" : "",
-                            "significance" : "",
-                            "correlation" : "",
-                            "details": "",
-                            "children": [
-                                
+                                {
+                                    "name": "General Provisions",
+                                    "url" : "",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "ruling" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "",
+                                    "children": [
+                                        
+                                    ]
+                                }
                             ]
                         },
                         {
