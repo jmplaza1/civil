@@ -513,7 +513,6 @@
                 
             ]
         },
-,   
         {
             "name": "Obligations and Contracts",
             "url" : "",
@@ -524,11 +523,217 @@
             "correlation" : "",
             "details": "",
             "children": [
-                
+                {
+                    "name": "Obligations",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [
+                        {
+                            "name": "General Provisions",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [
+                                
+                            ]
+                        },
+                        {
+                            "name": "Nature and Effects",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [
+                                
+                            ]
+                        },
+                        {
+                            "name": "Different Kinds of Obligations",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [
+                                
+                            ]
+                        },
+                        {
+                            "name": "Extinguishment of Obligations",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [
+                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Contracts",
+                    "url" : "",
+                    "facts" : "",
+                    "issue" : "",
+                    "ruling" : "",
+                    "significance" : "",
+                    "correlation" : "",
+                    "details": "",
+                    "children": [
+                        {
+                            "name": "General Provisions",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [
+                                
+                            ]
+                        },
+                        {
+                            "name": "Essential Requisites of Contracts",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [
+                                
+                            ]
+                        },
+                        {
+                            "name": "General Provisions",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [
+                                
+                            ]
+                        },
+                        {
+                            "name": "Form of Contracts",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [
+                                
+                            ]
+                        },
+                        {
+                            "name": "Reformation of Instruments",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [
+                                
+                            ]
+                        },
+                        {
+                            "name": "Interpretation of Contracts",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [
+                                
+                            ]
+                        },
+                        {
+                            "name": "Rescissible Contracts",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [
+                                
+                            ]
+                        },
+                        {
+                            "name": "Voidable Contracts",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [
+                                
+                            ]
+                        },
+                        {
+                            "name": "Unenforceable Contracts",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [
+                                
+                            ]
+                        },
+                        {
+                            "name": "Void or Inexistent Contracts",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": [
+                                
+                            ]
+                        }
+                        
+                    ]
+                }
             ]
-        },      
+        },
         {
-            "name": "Sales and Lease",
+            "name": "Natural Obligations",
             "url" : "",
             "facts" : "",
             "issue" : "",
@@ -539,49 +744,193 @@
             "children": [
                 
             ]
-        }                          
+        },
+        {
+            "name": "Estoppel",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [
+                
+            ]
+        },
+        {
+            "name": "Trusts",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [
+                
+            ]
+        },
+        {
+            "name": "Sales and Lease",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [
+            ]
+        },
+        {
+            "name": "Partnership",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [
+                
+            ]
+        },
+        {
+            "name": "Agency",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [
+                
+            ]
+        },
+        {
+            "name": "Loan",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [
+                
+            ]
+        },
+        {
+            "name": "Deposit",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [
+                
+            ]
+        },
+        {
+            "name": "Aleatory Contracts",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [
+                
+            ]
+        },
+        {
+            "name": "Compromises and Arbitrations",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [
+                
+            ]
+        },
+        {
+            "name": "Guaranty",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [
+                
+            ]
+        },
+        {
+            "name": "Pledge, Mortgage, and Antichresis",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [
+                
+            ]
+        },
+        {
+            "name": "Extra-Contractual Obligations",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [
+                
+            ]
+        },
+        {
+            "name": "Damages",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [
+                
+            ]
+        },
+        {
+            "name": "Concurrence and Preference of Credits",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [
+                
+            ]
+        }
+
+
              ]
 } 
             ]
-        },  
-        {
-            "name": "Wills and Succession",
-            "url" : "",
-            "facts" : "",
-            "issue" : "",
-            "ruling" : "",
-            "significance" : "",
-            "correlation" : "",
-            "details": "",
-            "children": [
-                
-            ]
-        },   
-        {
-            "name": "Obligations and Contracts",
-            "url" : "",
-            "facts" : "",
-            "issue" : "",
-            "ruling" : "",
-            "significance" : "",
-            "correlation" : "",
-            "details": "",
-            "children": [
-                
-            ]
-        },      
-        {
-            "name": "Sales and Lease",
-            "url" : "",
-            "facts" : "",
-            "issue" : "",
-            "ruling" : "",
-            "significance" : "",
-            "correlation" : "",
-            "details": "",
-            "children": [
-                
-            ]
-        }                          
+        }                         
              ]
 } 
