@@ -1,0 +1,90 @@
+{
+    "name": "Civil Laws",
+    "url" : "",
+    "facts" : "",
+    "issue" : "",
+    "ruling" : "",
+    "significance" : "",
+    "correlation" : "",
+    "details": "",
+    "children": [
+        {
+            "name": "Preliminary Title",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [
+                
+            ]
+        },
+        {
+            "name": "Persons",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [
+                
+            ]
+        },        
+        {
+            "name": "Property",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [
+                
+            ]
+        },  
+        {
+            "name": "Wills and Succession",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [
+                
+            ]
+        },   
+        {
+            "name": "Obligations and Contracts",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [
+                
+            ]
+        },      
+        {
+            "name": "Sales and Lease",
+            "url" : "",
+            "facts" : "",
+            "issue" : "",
+            "ruling" : "",
+            "significance" : "",
+            "correlation" : "",
+            "details": "",
+            "children": [
+                
+            ]
+        }                          
+             ]
+} 
